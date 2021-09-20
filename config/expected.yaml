@@ -22,11 +22,11 @@ spf:
 txt:
   ttl: 600
   type: TXT
-  value: Twinkle twinkle little star
+  value: Bah bah black sheep
 www:
   ttl: 300
   type: A
-  value: 2.2.3.7
+  value: 2.2.3.6
 www.sub:
   ttl: 300
   type: A
