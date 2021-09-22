@@ -2,8 +2,7 @@
  
 Welcome to Carlos' version of octodns!
  
-Usage:
- ./verify <config> <domain> <nameserver>
+Usage: verify <config> <domain> <nameserver>
 
 config: contains new branch that we expect to have changes
 domain: domain we are trying to verify
