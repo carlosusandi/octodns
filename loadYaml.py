@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-loadYaml:
-#Function to load a yaml file into a local list
+loadYaml: loads a yaml file into a local list
+
 Created on Mon Sep 20 20:51:16 2021
 
 @author: Carlos Usandivaras
